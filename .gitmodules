@@ -4,3 +4,6 @@
 [submodule "themes/landscape"]
 	path = themes/landscape
 	url = https://github.com/deptno/hexo-theme-landscape.git
+[submodule "source/_drafts"]
+	path = source/_drafts
+	url = https://bglee-fullstacked@bitbucket.org/team_bglee/_posts.git
