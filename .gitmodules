@@ -7,3 +7,4 @@
 [submodule "source/_drafts"]
 	path = source/_drafts
 	url = https://bglee-fullstacked@bitbucket.org/team_bglee/_posts.git
+	branch = draft
