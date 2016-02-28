@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: title
-subtitle: subtitle
+title: BGLEE.prototype
+subtitle: make world
 description:
 author: deptno@gmail.com
 language:
@@ -14,7 +14,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://bglee.me
 root: /
-permalink: :year/:month/:day/:title/
+permalink: posts/:year/:title/
 permalink_defaults:
 
 # Directory
@@ -70,3 +70,7 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/deptno/deptno.github.io.git
+
+# Plugins
+toc:
+    maxDepth: 6
