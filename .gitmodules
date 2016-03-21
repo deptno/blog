@@ -1,6 +1,6 @@
-[submodule "source/_posts"]
-	path = source/_posts
-	url = https://bglee-fullstacked@bitbucket.org/team_bglee/_posts.git
 [submodule "themes/landscape"]
 	path = themes/landscape
 	url = https://github.com/deptno/hexo-theme-landscape.git
+[submodule "source"]
+	path = source
+	url = https://bglee-fullstacked@bitbucket.org/team_bglee/_posts.git
