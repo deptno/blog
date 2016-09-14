@@ -1,0 +1,22 @@
+---
+layout: post
+title: 리디북스 페이퍼 라이트
+excerpt: 리디북스 페이퍼 라이트를 구매하다
+category: draft
+author_url: /author/deptno
+author_avatar: deptno-yuri
+show_avatar: true
+show_related_posts: true
+feature_image: https://lh3.googleusercontent.com/uZbFC5-_gQZV7psD3XsNZrpprIiJJrUozwSAvHVUQAOH_OW9zw4Z0XjJOCEPmXvU6iKwLhAeU1JvLUFnakqCySPDgHzUXdBpfDuTcJO8fIBJzKlQ5ds6R3lPC_1Wuwav8eD58VffZD35mtQlutiStyDGYUiGzXCJWx7YLSeV0thqyuqI1C3fDQvzAoC0L2wa4TZY5F6x0Ccix01-2VR8hvjY_ez3nqCI6Krokkd28Kkss3dCej_j4mGu7Zc53C_sqm6bfmmZDtrr4dS11QIHe-9gMp8H-fzB2gUIYsSRURqfrwTockTXDyx5aj4A0j1C4KoP5mwwS-id185ZRWrqPGDbJH-LI3M3PVw-Ni_Zd6c492HV2HR0bTLZVvFHeHA0NGwcDNvYyu9G00vqLnRPR-DWaNs6zwU0jj4BXtOyEXniSIea7T67abX2QXZ7ICmgVlV9Z-u3RhOK2PbnQwFSOUCUe2eV_tWBHTROzKGju5ONzwaQhZ3Oos446GOGkkqvt8yyFvtXk4HWg2iAdSXlLtuRFmqZfdQYkoVlCDGPprt8j9fVdTqQQGpblE6s0MSsYv831A=w1416-h1062-no
+square_related: https://lh3.googleusercontent.com/JLNHC4Rfyp-avaEZg1nNZ76uMguo1MdWv8YeToJLviKURahMscpckmPOWtUpoTbvBX6nPc8zz4tyodHDw49XFcKlSrXz0vMk2_wdWZeOXJYPGyHFVEsV5yNAaoLz7cIOHJMEZAiHuns-EUZa0UwiuDOcha-mm70r3_8FgTE4NUo0AGX2o4kLq-BtyjVnTQrnoMb0DVpR2Y3n1Eog5YMdizKRBIuhQOlWAJ3zeyrGCqIFTrXjRwE8sb3GV4qKBBSNmo9j1DaiC-6-0QKwzpHU1KiR5YhlM1HJOlUM4ut1tRa40eT5N2EifjOVgPReWdd5DpAbFIHxzfQBsPdvMebsybQ6ZB7x-rQCqld-Nqv_KDUG9iKC-ntqFzB3P6FrjNoOS0hTldTxeuu12x93gPhbzmK6xyMmQh68R8nA5YhnPDZTGzl_4wysboJ8bRjnvw-txrpG96TjLy_Ex9emxuP4LyJZfWXxeZdz8Pi_TFSYMcPh3r_0B870XzFncjAqeu29EnYwtQ2Yxaf3WAOzHoLfjsmCGAlHJutu6qYvkO_KxmWvA8w59y_8E0x5s7d-XzrfC28sSg=s696-no
+read_time: 1
+comments: true
+publish_date: 2016-01-03T05:40:54.119
+date: 2016-01-03T05:40:54.119
+---
+
+리디북스의 [대국민 독서지원 프로젝트](https://ridibooks.com/event/3357) 이벤트를 모르고 지나갔는데 앵콜로 다시하길래 1, 2, 3차를 모두 지르고 [4차 이벤트](https://ridibooks.com/event/3414)로 베스트컬렉션을 169,000원에 리디북스 페이퍼 라이트를 껴서 파는 이벤트까지 모두 질렀다.  
+
+재밌는 이벤트인게 1, 2, 3차를 모두 결재하게되면 16만원 4차 이벤트는 16만 9천원인데 1, 2, 3차로 들어온 포인트를 여기에 사용할 수 있다. 추가로 9천원을 결재하면 된다는 이야기인데 어쨋건 페이퍼 라이트가 8만 9천원에 들어오는 상황에서 읽을지 안읽을지는 모르지만 800권 수준의 명작(?)을 8만원에 50년 대여하는... 왠지 안하면 손해보는 느낌이 들게하는 이벤트라 구매를 하게 되었다.  
+
+![리디북스 페이퍼 라이트](https://lh3.googleusercontent.com/A7tJnUY51gHd1J_vctLvGs4DpUEk15uWTP5bJeiTHVtBtEfJFmyCHOQJFIwQX-Y_kPtDqUX94LHIb6WjS2bAyeudpD9_XgLl0Tqvyg6YUdtzDGWBGDIX65vjXeKGXR9SaIhu9bbhQ4yZ-Hot6rwnielK1psNWfwFkwT1CUMTQtjY4d68ZUDbTYu8jbNglzexJyvaW_zuVOUD0R98R0Q8xclQkmswxmmw1XNiTASKDnnlWulRX2XZd2D8P_5oFFJD2mGcEJOw-NJCs2AnSLN35VrYLkz_4hrNN8JK2shsvsXSVZje2E0MLrdhlv7s9iFgKZ5WhLM5oqklfnlVJdmutm74DmN-kTnC5Z92N2prR-1RbeVBF_cu3D6t9seouetZfgUffoiqZk-rEcVmRga-wE9k_wovfgVQIWJ9909vzoO0RRUj4V83MOpRNlWsUngFHmStZhVYoaMuruhFHmHnBNGh2hEE3B0rlbbip8nKPinq8rT9oUTcDDxahQYFzf2Ue6tAFQcatTh1oyzZ72Xe3TmzslP79Q2cWUxqejLw53g2gKXTcpb70mGaNsuZlbcT2W9HJw=w1716-h1287-no)

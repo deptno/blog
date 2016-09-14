@@ -1,0 +1,63 @@
+---
+layout: post
+title: Jekyll
+excerpt: 블로그 플랫폼으로 지킬을 선택한 이유
+category: draft
+author_url: /author/deptno
+author_avatar: deptno-yuri
+show_avatar: true
+show_related_posts: true
+feature_image: https://lh3.googleusercontent.com/hZHHR5j5unjHkYdnNWdluWHZni6JgecIoQCLIpo7DIJSr2Z9n9dM5WLfelmnQgDo_7dcJCUGzgl4s04C5NU1vkEQKVn0lHu0HWg9BoZo1szNUiVLIKL6PUrgCvMzP9PV4VLoB6m7OnpMgpp6v67Ii7uura7wlZAH-SZIlr1arwd_LqJLYoVCdslj-BH9Tcg0Z_3h3wOobXCix_DBBQEu34VSynn3c_QaJJ6zfdNmv7rDgiweE1IRhQAhaRVg5W3cGNC5G8C9aYgdkYXOT8rxtAQdRJCUXHz0a9saWnj_7ANJZx3Uqvwhp_GDC-_MCshw0OZ_C0FZ70_r-OdvP3SRw6N6FYPiEJqV2dd6kiOe2oyxN5wvlwopOqsIu2vvs7xhtkX-YZiRT0lY7Lzjtj1DEPGS9j3KSqAd_UgWKpxjXzspyZvp_Gtx7V9GV-LKj4g7Jq-wrbYRI-_y1GDAR4nlUhiwuXTTwQF5mROKR46yItiEiOZzQsdWf-RMtnm9Z14zvJsypTbk_BEJixGZTurU_wdOpsxpw9MyIocdt86mwF9nJ_tE45L2StdIug3AVu-6InH1jQ=w960-h489-no
+square_related: https://lh3.googleusercontent.com/DS60UTd7-ItzTJ1O6s0s3f4-XYd6CRWcHnBgloQL4_EkSQcgk1HDLrCuMyITDtB2hx8Gbj_h0NWpenMhwswZTr-fseIU2yVlr0wMYOxPdN0YWPKTujbRIUREVW5dJeEK7A2R3dmCMRRu8MnZfi-Y6GFHIPl62E_ixK8v6NmpsL2YjfB9MhGr3IH3jv6UXY7HD6MiyVZ8uzMWplQyExOfy7ihPByvLmUQ869ZOpJr_G0h_XAvb_VGcV1EBbv_FsnoOTa49rG3TH1EXyiRIz9VVoBuRnwtuK8KhPblAvO3h-9UvNIsQLp0YBUN3AayxgNuY4rHlQaKLJi4RefSGrm2VCY6u_Pdbts8rryf3FuIorF8CAQPUFE0JhuEq5whXkzDe8X66dgtz1VMteRCJXhLPOcNCCCLx5nWmHxVf4Fk7a1YIX0h1hk58hDtSSeD4yAmtGkoKtpgxDlisRWf2CGnlKa2McUXj4D3pDw7jdWXdhXLplqMHJ8_PKPr-sf7qMg5yPBzYmJKoDyDM2XAUh-ooDklout43DJDUMiVHI_Ybq0jG08bLpsSiwFJpiKdah5DoIPCzg=s830-no
+read_time: 4
+comments: true
+publish_date: 2016-01-06T14:13:58.784
+date: 2016-01-06T14:13:58.784
+---
+
+## 기존 블로그 플랫폼의 경험
+
+네이버, 티스토리, 텀블러, 고스트 등등 블로그 플랫폼을 맛만 봤었다. 각자 장, 단점이 있는데 내가 느끼는 바를 표로 정리해봤다.
+
+* 네이버 - 쉽다, 네이버에서 유저 유입, 네이버 내에서의 강력한 커뮤니티
+* 티스토리 - 쉽다, 광고 플랫폼과의 연동, 다음에서의 유저 유입
+* 텀블러 - 마크다운 지원
+* 워드프레스 - 기억 안남
+* 고스트 - 기억 안남
+
+---
+
+## 지킬을 선택한 이유
+
+* 자유도를 원했다.
+* 컨텐츠가 플랫폼 독립적이길 원했다.
+* 마크다운 언어 사용.
+
+자유도는 물론 설치형 플랫폼을 선택하는 경우 얻어진다. 워드프레스, 고스트등이 해당될 것으로 보인다. 사용하는 입장에서는 스킨 사용 폭 정도가 되지 않을까 한다.
+
+컨텐츠가 플랫폼 독립적이다. 이 말은 컨텐츠가 물건이면 플랫폼은 그걸 그저 전시하는 공간으로 사용하겠다는 이야기다.  지킬이 가장 마음에 들었던 것은 마크다운으로 컨텐츠가 관리된다는 점이다. 마크다운 언어는 매우 간결하며 text파일 이면서도 가독성이 좋다. 때문에 글을 쓰는 입장에서는 마크다운 언어 하나를 배워서 텍스트 에디터 하나만으로도 포맷을 갖춘 글 작성이 가능해진다.
+
+마크다운을 지원하는 블로그 플랫폼은 몇 가지 존재한다. 텀블러나 고스트 등이 그랬던 것으로 기억한다. 그러나 텀블러는 마크다운을 지원할 뿐 컨텐츠 독립적이진 않다.
+지킬은 글을 마크다운 언어만을 통해 작성한다. 그리고 설치형이기 때문에 지킬을 설치하고 인터넷에 있는 테마 하나를 받고 지킬을 통해 실행시키면 바로 서버는 운영상태가 된다. 테마 폴더안에 있는 **_post** 폴더에 마크다운 파일만 작성하면 된다.
+
+---
+
+## 컨텐츠가 플랫폼 독립적이다.  
+
+### 컨텐츠의 독립
+
+블로그 운영을 위해 깃허브등에서 원하는 테마를 포크했다고 해보자. 테마에는 각자의 설정파일이 존재하고 버전관리를 위해 포킹이 필요하다. 포크를 하고 샘플로 들어있는 **_post** 폴더를 삭제한다. 그리고 문서를 관리할 새로운 저장소를 하나 만들고 이를 여기에 클론을 한다. 그럼 테마는 테마대로 버전관리를 하면서 테마를 바꾸고 싶거나 할 때 아무 상관없이 포스트들이 저장되어있는 저장소를 다시 테마 안으로 클론 함으로써 컨텐츠는 플랫폼과 무관하게 계속 사용이 가능하게 된다.
+
+### 댓글도 독립
+
+**댓글** 은 컨텐츠 이상의 가치를 지닌다. 그러면서도 컨텐츠와 연관되어 있다. 컨텐츠가 플랫폼과 독립지 적이지 않은경우 여기서 문제가 발생한다. 댓글이 플랫폼에 종속적이기 때문에 만약 다른 플랫폼으로의 이전을 하고 싶은 경우에는 그 동안 다른 사람들과의 소통을 하며 가치를 키워돈 댓글들을 상실하게 된다.  
+
+이를 위해선 서드파티 댓글 시스템을 도입해야하고. 이는 소셜 댓글 서비스라는 이름으로 많이 알려져있다. 이런 점들이 **자유도** 를 가진 플랫폼을 선택했을 때 얻어지는 점이다.
+
+## 지킬의 장점
+
+지킬이 내세우는 장점은 사실 이런게 아니라 스태틱 웹 서버라 하여 php등이 서버 연산을 하여 뿌려지는 반면에 지킬은 문서가 작성되면(마크다운으로) 이를 Html로 컨버팅한 파일을 생성하고 이를 바로 서빙하는 것이다. 이를 통해 서버는 적은 연산으로 더 많은 사용자를 감당할 수 있게 될 것이다.~~내게는 이런 점보다 서버 효율적인 면보다 자유도가 더 크게 다가온다.~~
+
+## 지킬의 단점
+
+**귀찮다.** 지금도 테마 폰트 가독성등의 문제를 잡고 이미지 셋업등을 해야하는데 아직도 못하고 있다.
