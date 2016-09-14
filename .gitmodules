@@ -4,3 +4,6 @@
 [submodule "source"]
 	path = source
 	url = https://bglee-fullstacked@bitbucket.org/team_bglee/_posts.git
+[submodule "themes/hueman"]
+	path = themes/hueman
+	url = https://github.com/deptno/hexo-theme-hueman
