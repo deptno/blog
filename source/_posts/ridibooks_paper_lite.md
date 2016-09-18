@@ -1,18 +1,8 @@
 ---
-layout: post
 title: 리디북스 페이퍼 라이트
-excerpt: 리디북스 페이퍼 라이트를 구매하다
+layout: post
 category: draft
-author_url: /author/deptno
-author_avatar: deptno-yuri
-show_avatar: true
-show_related_posts: true
-feature_image: https://lh3.googleusercontent.com/uZbFC5-_gQZV7psD3XsNZrpprIiJJrUozwSAvHVUQAOH_OW9zw4Z0XjJOCEPmXvU6iKwLhAeU1JvLUFnakqCySPDgHzUXdBpfDuTcJO8fIBJzKlQ5ds6R3lPC_1Wuwav8eD58VffZD35mtQlutiStyDGYUiGzXCJWx7YLSeV0thqyuqI1C3fDQvzAoC0L2wa4TZY5F6x0Ccix01-2VR8hvjY_ez3nqCI6Krokkd28Kkss3dCej_j4mGu7Zc53C_sqm6bfmmZDtrr4dS11QIHe-9gMp8H-fzB2gUIYsSRURqfrwTockTXDyx5aj4A0j1C4KoP5mwwS-id185ZRWrqPGDbJH-LI3M3PVw-Ni_Zd6c492HV2HR0bTLZVvFHeHA0NGwcDNvYyu9G00vqLnRPR-DWaNs6zwU0jj4BXtOyEXniSIea7T67abX2QXZ7ICmgVlV9Z-u3RhOK2PbnQwFSOUCUe2eV_tWBHTROzKGju5ONzwaQhZ3Oos446GOGkkqvt8yyFvtXk4HWg2iAdSXlLtuRFmqZfdQYkoVlCDGPprt8j9fVdTqQQGpblE6s0MSsYv831A=w1416-h1062-no
-square_related: https://lh3.googleusercontent.com/JLNHC4Rfyp-avaEZg1nNZ76uMguo1MdWv8YeToJLviKURahMscpckmPOWtUpoTbvBX6nPc8zz4tyodHDw49XFcKlSrXz0vMk2_wdWZeOXJYPGyHFVEsV5yNAaoLz7cIOHJMEZAiHuns-EUZa0UwiuDOcha-mm70r3_8FgTE4NUo0AGX2o4kLq-BtyjVnTQrnoMb0DVpR2Y3n1Eog5YMdizKRBIuhQOlWAJ3zeyrGCqIFTrXjRwE8sb3GV4qKBBSNmo9j1DaiC-6-0QKwzpHU1KiR5YhlM1HJOlUM4ut1tRa40eT5N2EifjOVgPReWdd5DpAbFIHxzfQBsPdvMebsybQ6ZB7x-rQCqld-Nqv_KDUG9iKC-ntqFzB3P6FrjNoOS0hTldTxeuu12x93gPhbzmK6xyMmQh68R8nA5YhnPDZTGzl_4wysboJ8bRjnvw-txrpG96TjLy_Ex9emxuP4LyJZfWXxeZdz8Pi_TFSYMcPh3r_0B870XzFncjAqeu29EnYwtQ2Yxaf3WAOzHoLfjsmCGAlHJutu6qYvkO_KxmWvA8w59y_8E0x5s7d-XzrfC28sSg=s696-no
-read_time: 1
-comments: true
-publish_date: 2016-01-03T05:40:54.119
-date: 2016-01-03T05:40:54.119
+date: 2016-01-03
 ---
 
 리디북스의 [대국민 독서지원 프로젝트](https://ridibooks.com/event/3357) 이벤트를 모르고 지나갔는데 앵콜로 다시하길래 1, 2, 3차를 모두 지르고 [4차 이벤트](https://ridibooks.com/event/3414)로 베스트컬렉션을 169,000원에 리디북스 페이퍼 라이트를 껴서 파는 이벤트까지 모두 질렀다.  

@@ -1,20 +1,9 @@
 ---
+title: nginx-webdav
 layout: post
-title: "nginx-webdav"
-excerpt: "NGINX WebDAV 설정"
+date: 2015-07-24
 category: program
-publish_date: "2015-07-24"
-date: "2015-07-24"
 tags: [nginx, nginx webdav, webdav, dav]
-
-author_url: /author/deptno
-author_avatar: deptno-yuri
-show_avatar: true
-show_related_posts: true
-feature_image: ubuntu
-square_related: ubuntu
-read_time: 5
-comments: true
 ---
 
 ## NGINX WebDAV setup

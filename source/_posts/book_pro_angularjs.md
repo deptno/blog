@@ -1,18 +1,8 @@
 ---
 layout: post
 title: 프로 AngularJS
-excerpt: 책
-category: [summary, draft]
-author_url: /author/deptno
-author_avatar: deptno-yuri
-show_avatar: true
-show_related_posts: true
-feature_image:
-square_related:
-read_time: 40
-comments: true
-publish_date: 2016-01-18T12:57:44.755
-date: 2016-02-01T03:09:54.393
+category: [summary]
+date: 2016-02-01
 ---
 
 > 이 문서는 AngluarJS를 빠르게 읽히기 위해 예제코드를 눈으로만 읽으며 정리한 개인 노트다.

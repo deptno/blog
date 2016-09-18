@@ -1,6 +1,9 @@
 ---
 title: TypeScript
-tags: requirejs typescript amd amd-dependency
+layout: post
+category: [dev, ts]
+date: 2016-04-12
+tags: [requirejs, typescript, amd, amd-dependency]
 ---
 
 <!-- toc -->

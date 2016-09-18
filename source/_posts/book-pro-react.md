@@ -1,7 +1,9 @@
 ---
 title: React.js 프로 리액트
-date: 2016-07-16 22:57:19
-tags:
+layout: post
+category: [summary]
+date: 2016-07-22
+tags: [pro react, 프로 리액트]
 ---
 
 > React.js를 이용한 모던 프런트엔드 구축

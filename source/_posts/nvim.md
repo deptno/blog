@@ -1,6 +1,9 @@
 ---
 title: Neovim
-tags:
+layout: post
+category: [setup]
+date: 2016-08-03
+tags: [neovim, vim, nvim]
 ---
 
 ``` bash

@@ -1,21 +1,9 @@
 ---
-layout: post
 title: "진행 내역"
-excerpt: "마일스톤, 지속적으로 업데이트."
+layout: post
+date: 2015-12-21
 category: draft
-publish_date: "2015-07-20"
-date: 2015-12-21T19:10:23
 tags: [계획, 지킬, jekyll, milestone]
-
-author_url: /author/deptno
-author_avatar: deptno-yuri
-show_avatar: true
-show_related_posts: false
-#feature_image:
-#square_related:
-read_time: 1
-comments: true
-
 ---
 
 ## 블로그

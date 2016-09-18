@@ -1,19 +1,8 @@
 ---
 layout: post
-title: "netatalk 3"
-excerpt: "netatalk, afp protocol 사용을 위한 서버 설치"
+title: netatalk 3
 category: program
-publish_date: "2015-07-25"
 date: "2015-07-25"
-
-author_url: /author/deptno
-author_avatar: deptno-yuri
-show_avatar: true
-show_related_posts: true
-feature_image: ubuntu
-square_related: ubuntu
-read_time: 2
-comments: true
 ---
 
 ## netatalk

@@ -1,7 +1,9 @@
 ---
 title: 맥북 설정
-tags: '맥북 셋업, 맥북 개발 환경 설정'
-date: 2016-07-28 00:49:25
+layout: post
+category: [setup]
+date: 2016-07-28
+tags: [맥북 셋업, 맥북 개발 환경 설정, osx 개발 환경, 맥북 설정]
 ---
 
 

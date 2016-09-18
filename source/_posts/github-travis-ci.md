@@ -1,7 +1,9 @@
 ---
 title: github - travis ci - slack
-tags: 'ci, travis ci, circle ci, slack, github, devops, github, notification'
-date: 2016-08-15 17:55:17
+layout: post
+category: [dev, ci]
+date: 2016-08-15
+tags: [ci, travis ci, circle ci, slack, github, devops, github, notification]
 ---
 
 

@@ -1,20 +1,9 @@
 ---
-layout: post
 title: "Google IO extended Seoul"
-excerpt: "'Google IO extended Seoul' 웹 세션 정리 초안"
-category: summary
-publish_date: "2015-07-15"
+layout: post
 date: 2015-07-15
+category: summary
 tags: [google io, google io extended, web 세미나]
-
-author_url: /author/deptno
-author_avatar: deptno-yuri
-show_avatar: true
-show_related_posts: false
-#feature_image:
-#square_related:
-read_time: 22
-comments: true
 ---
 
 Google IO extended

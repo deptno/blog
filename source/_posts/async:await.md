@@ -1,7 +1,9 @@
 ---
 title: Promise || Async/Await
-date: 2016-07-11 22:57:19
-tags:
+layout: post
+category: [dev, js]
+date: 2016-07-11
+tags: [es6, es7, es2015, async await, async/await]
 ---
 
 callback방식

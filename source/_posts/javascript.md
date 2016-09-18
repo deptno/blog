@@ -1,6 +1,9 @@
 ---
 title: JavaScript
-tags:
+layout: post
+category: [dev, js]
+date: 2016-04-12
+tags: [javascript, js, jshint]
 ---
 
 jshint

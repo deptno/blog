@@ -1,21 +1,11 @@
 ---
-layout: post
 title: "LEARN: Unity & C#"
-excerpt: "'유니티와 C#으로 배우는 게임 개발 교과서'와 함께 공부 진행"
-category: summary
-publish_date: "2015-07-22"
+layout: post
 date: "2015-07-22"
+category: summary
 tags: [유니티와 C#으로 배우는 게임 개발 교과서, unity, unity3d, 게임 개발, C#, 씨샵]
-comments: true
-
-author_url: /author/deptno
-author_avatar: deptno-yuri
-show_avatar: true
-show_related_posts: false
-feature_image:  https://lh3.googleusercontent.com/HxwoncGsh-unoYbPTjXt7X70-D2VGhKi9qnLBdsI3SKQj2XM2aAh3i2oCz65EQUC_ZxHzifYBpwQOIkfU2-2wj5zJxTPkd8H1aNF2zYxqb_qJUhOpiHpgOintJhq0C-b3_myYrnLdESx8xQMT6wYlL4qBIXTFWbAbScxPEzh-YzyRBnNW_EOTRegb2G62DNh-1YISuMCp1bnA_qBHeXBBFN-PD_A2Uz_3O_dJ8C0wtDZHOU22C64ltSF9uspI2kY6iBQskPJUUhJnifelwA-OiegfKqLKn8JJOmUn2UuJQCI44c-Gl6L_b1CINdYAsuGtR0XDDuz2-BmzXNpjdDV2J-2v9SUnDkvACqtXPOcWhLsKITTCw9wi6nthJV6bBWw5T33g30lm_vP-beP5R3X3b6zX4KbOeIVWOMVAqjPJVYwJh0kPENIp7bAjGNBzblkQpYcisv7me7WRpdmG297JB96pXSpjgtKWLDH5U0cWCyxAr5tGoUxfnOQZL8Whw2GQb2LsRS0AzH9b6Ttf5n9fU6mTcHX7y-hY1_kMsONWf-C7bZAXYGNrNi1uMn2-2sldp2KwA=w1624-h438-no
-#square_related:
-read_time: 17
 ---
+
 # 교재
 
 >유니티와 C#으로 배우는 게임 개발 교과서

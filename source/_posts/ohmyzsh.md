@@ -1,6 +1,9 @@
 ---
 title: OhMyZsh
-tags:
+layout: post
+category: setup
+date: 2016-04-12
+tags: [ohmyzsh, zsh]
 ---
 
 ## 설치 

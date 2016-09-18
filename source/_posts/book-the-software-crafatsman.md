@@ -1,7 +1,9 @@
 ---
 title: book-the-software-crafatsman
-tags: '소프트웨어 장인, 프로페셔널리즘, 실용주의, 자부심, 애자일, xp'
-date: 2016-05-16 22:58:41
+layout: post
+category: [dev, ts]
+date: 2016-05-16
+tags: [소프트웨어 장인, 프로페셔널리즘, 실용주의, 자부심, 애자일, xp]
 ---
 
 

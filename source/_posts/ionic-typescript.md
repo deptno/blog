@@ -1,18 +1,8 @@
 ---
 layout: post
-title: "Ionic + TypeScript"
-excerpt: "Ionic + TypeScript를 이용한 앱 제작"
+title: Ionic + TypeScript
 category: [draft]
-publish_date: "2015-12-29 19:43:00"
 date: 2016-01-03T18:19:28.244
-author_url: /author/deptno
-author_avatar: deptno-yuri
-show_avatar: true
-show_related_posts:
-feature_image:
-square_related:
-read_time: 5
-comments: true
 ---
 
 > Angular.js와 Ionic을 공부할 겸 해서 TypeScript와 함께 앱을 제작해 보려고 한다.

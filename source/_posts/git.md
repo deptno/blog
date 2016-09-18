@@ -1,6 +1,9 @@
 ---
 title: Git
-tags:
+layout: post
+category: [dev, git]
+date: 2016-04-12
+tags: [git, submodule]
 ---
 
 Submodule

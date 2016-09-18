@@ -1,6 +1,9 @@
 ---
 title: slackbot
-tags:
+layout: post
+category: [dev, js]
+date: 2016-04-12
+tags: [slackbot, slack]
 ---
 
 hubot과 연동해서 slack에서 귀찮은 일들을 대신해줄 봉봇(bongbot)을 만들기로 했다.

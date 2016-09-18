@@ -1,18 +1,8 @@
 ---
+title: Jaybird BBX 본사 A/S 후기
 layout: post
-title: "Jaybird BBX 본사 A/S 후기"
-excerpt: "Jaybrid BBX 본사 A/S를 통해 X2로 업그레이드"
 category: device
-publish_date: "2015-12-17"
-date: 2016-01-08T16:45:19.462
-author_url: /author/deptno
-author_avatar: deptno-yuri
-show_avatar: true
-show_related_posts: true
-feature_image: jaybird-bbx
-square_related: jaybird-bbx
-read_time: 5
-comments: true
+date: 2016-01-08
 ---
 
 ## Jaybird BBX

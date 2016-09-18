@@ -1,7 +1,9 @@
 ---
 title: webpack babel 설정
-date: 2016-07-21 00:42:40
-tags:
+layout: post
+category: [dev, js]
+date: 2016-07-21
+tags: [babel, webpack]
 ---
 
 

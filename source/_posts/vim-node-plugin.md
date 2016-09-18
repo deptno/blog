@@ -1,7 +1,9 @@
 ---
-title: vim-node-plugin
-tags: 'vim, neovim, vim plugin node, vim plugin javascript'
-date: 2016-08-03 00:51:41
+title: vim node plugin
+layout: post
+category: [dev, js]
+date: 2016-08-03
+tags: [vim, neovim, vim plugin node, vim plugin javascript]
 ---
 
 

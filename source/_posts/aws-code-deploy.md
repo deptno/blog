@@ -1,7 +1,9 @@
 ---
 title: aws code deploy - ci
-tags: 'aws, code deploy, ci, travis ci, circle ci, slack'
-date: 2016-08-15 17:55:25
+layout: post
+category: [setup, ci]
+date: 2016-08-15
+tags: [aws, code deploy, ci, travis ci, circle ci, slack]
 ---
 
 

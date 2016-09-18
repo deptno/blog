@@ -1,18 +1,8 @@
 ---
-layout: post
 title: "그린스모크 구매, 사용 후기"
-excerpt: "Greensmoke 사용기"
+layout: post
 category: device
-publish_date: "2015-12-21 19:40:00"
-date: 2016-01-16T14:16:27.623
-author_url: /author/deptno
-author_avatar: deptno-yuri
-show_avatar: true
-show_related_posts: true
-feature_image: https://lh3.googleusercontent.com/8BU6p70zglhZMZkLcjTJ72VWxr5XVFZ6CE6pjFtIdDDMP7G3l-Iz1u7n3Uc70ozWDb5pFx2afvl_waz_EfGwPT-uaq_Loc5YPaVGYo7BKKvS4hUzg26jWaozS-OsW3tbgAsTyQy61dHmkzvK_w9-XgmcjsO08E1uGKXEurfZqp6wBbDcvLwYdVNXfDLdUr2Bd1yFTNHUejEf0xIgaJhxd-gyvb0dFCSU9xLiM7_9eFt3sUcHrKr7xtGAPS87_7I-rpTgJbno8FIsY5h80kUiwWU2NStP9O4DjCapjqs3KYiv5WSG5L6bk0OpEyCMXd5qsu_5GCM1vveaEGc0ErwJqowoNeCwi-LeHdL0wvJh-Th-3HLTAYLDq5rGxDy7laYAsVAH_Qg5PGfkQjuP28nGsJ4EqQuQ35fd4A0h52helkiAR1m642PQUw9hePNvLFT-wYFagjpwo2AhBGchXgxfp3KKT3p9wrmqEULkSCTOXmxJvKimim2VjMT0bUIW029XgugD1dAgFJEgraqpYNw8NOPchL_VFANCs-HSzoq5wU3wrIoEnTPiadV52d-YME5q2PcGHA=w1144-h696-no
-square_related: https://lh3.googleusercontent.com/jOioK8od3PtBrQPg732XUcX7bQU2xJCeo-KyZxar-sG7IkagxlKEJiPJnFkR5_XOyqkOxPbJZE0Uj1XgIXQd_yal-_F627RVZo7Zt0VzPNakF0JfvV8HO4FPb6V8i63G0JXrSoMtejFpILJwA7S-JftavxG7td7tn9gKiXbnjXuEPWDOjBneUIRR6FwVF7IHKIoJF7dExn7RHxoliTV1px1-B2tSeAOiC_3QVZ4yxbP-XkTJg023WU-Yf7sAOeVsLD2sxR8ntMH8UsqjspLfO5wqitF8PL61QrYsXhBdHIxUfFpWSohUJZt7eKuCBwITwUJHwuUvyNuSjSIYtC-OQC5thyvgzvmJRnodVNQZ3AhIJJh07luF3Nq_GaC6pSOLu5zva_2wZSgiSU7YSvSg387Ih7BvHZExgFwb_J10KLfCHFMrpehwARta3nSPoczoSy6SSWLuelQyr6iIJEP4SM_w-mcuT-AAYVd-kvbikHDLlbPRm_LVv5HYa1r-gqhqkg5vVZHoOz03PQUuvzKkM0TwE7a81ZioLp4_qiwH_vvv8xYODvEi-XfjNzMtlzRxWX7Nog=s696-no
-read_time: 5
-comments: true
+date: 2016-01-16
 ---
 
 > 작년 블랙프라이때 부터 고민을 하다가 1년이나 밀려서 지금 구매를 하게 되었다.

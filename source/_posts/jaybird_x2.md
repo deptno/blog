@@ -1,18 +1,9 @@
 ---
-layout: post
 title: 제이버드 X2
+layout: post
 excerpt: Jaybird X2 리뷰
-category: [device, draft]
-author_url: /author/deptno
-author_avatar: deptno-yuri
-show_avatar: true
-show_related_posts: true
-feature_image: https://lh3.googleusercontent.com/DZbBqWE1aygkWJlmWD3cEl7ppuYUvJ38JEffW1wgw1CfNsLGF-8xOuAh73Tb1y8yAebpE4vK_oeSFdWSuolJP29Pcgs-1Vz3cm4vdKuZL_atH4jK7iaSHdH2L2HUHConaab64ceP9jgx_w0HHIgfjhmqa2Ua_xoyubio0o_bbSQnw8wGStxYk8VtlOMR32F6tGbka70ziW585Po8XnwQlqS-FuyQusH1QYoXOXl6Oo_HuIe5MKQ9slm8QG-WVuCj1Wj_pejWm3LbnDEEKHRefLH496IrbpnyLC5xq4RLKwGJL-qdw6wvuVm_v8VGkoz73YZ9t9jOHEM4290O1g5REsAj_Opb6UqWAEcGJJMKmQ8IDof1--mEB4IUcFHbBt0pj5g1zIxRvDVCC8FB237UNuGS4r1onF6poCySGbsMYp9YUihzB6z8mBlB5XYkAQV7L7Cyf1Ht98pMhSTqspBf3x4m2q6mJqzHGphDO3s4BDWz0h2qWiSRxpziYSjq9UiNaqNPf_fnQyWXBXvZMsZkXRxdymI-FIWhyqA7BES2zRYWTbq6fvKHc6XHEcM-oNptCK-tVg=w1366-h488-no
-square_related: https://lh3.googleusercontent.com/umAmn6nscQyNq2ictZhiOHxgjmRMHLAfyjDWGGWPTxwy0LzhhY49bKRLEx0tAWKZz0-L0KpjPTjmXKgBPpX4TQLQAYSt_830A-lg2KCfW5mQUQtHw93p80hWxxLh3z5bIsQ6pg9Qett5FKlqWkdRrLSYTluvfADA--theWHCpyAB9zgfpbCqMyUKuNi-ZohCJcaWRtldwcls8PCD80xWAY5xojO1_BNXsuuHsl3gjPynQ3mTN5zEzD4QDvv2Ttnjahz8e-V2yjNQwu6eTEKy-4_H-kXxquCZIz23dLOsX6Bjqz-rv0-n0XJBqK1qvmCwFFqP2epXH_HegdztmMOHzGR68Ppo4mhvlJB98lq3ONpvqrrmrO9skhOzSq7VPJctCIV5Iye7eEooEo8apSntF_iwXmwmcsaXQXVVZf3bQYIC66lvghSI14NVFXTa7QvLce36FUdIfIJLzGf1sZYrLc9pwJg4wsoGhqiVt3zkivOJPj3Zms_r0kX9v37mgkMVgVQ87N1vHBm5-SABAvf45XiMHjNPZ1opfgeRi-fAMUOH8mcgbq3mA8SKNQR5V31qZqNCdQ=s696-no
-read_time: 1
-comments: true
-publish_date: 2016-01-08T17:31:58.645
-date: 2016-01-08T17:31:58.645
+category: [device]
+date: 2016-01-08
 ---
 
 어쩌다 보니([BBX가 망가져서 A/S보내 X2로 교환받은 포스트](http://bglee.me/posts/2015/jaybird_bbx_as))를 갖게 되었다. 성능상으로의 스펙의 차이는 크게 없고 둘다 검정인데(미드나잇 블랙) X2의 색상은 무광으로 처리되어 있어 조금더 고급스러운 느낌이 든다.
