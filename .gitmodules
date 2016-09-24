@@ -9,4 +9,4 @@
 	url = https://github.com/deptno/hexo-theme-hueman
 [submodule "source/_drafts"]
 	path = source/_drafts
-	url = git@bitbucket.org:bglee-fullstacked/draft.git
+	url = https://gitlab.com/deptno/draft.git
