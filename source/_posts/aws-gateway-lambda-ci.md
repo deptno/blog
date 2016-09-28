@@ -1,13 +1,9 @@
 ---
-title: AWS API Gateway - Lambda - Travis-CI prototype 작성
-tags:
-  - aws
-  - api gateway
-  - lambda
-  - ci
-  - travis
-  - lambda 배포
-date: 2016-09-26 00:00:00
+title: AWS API Gateway - Lambda - Travis-CI prototype 구현
+layout: post
+category: [dev, aws]
+date: 2016-09-26
+tags: [aws ,api gateway ,lambda ,ci ,travis ,lambda 배포]
 ---
 
 
