@@ -65,7 +65,7 @@ tags: [맥북 셋업, 맥북 개발 환경 설정, osx 개발 환경, 맥북 설
 * 개발자니까 터미널은 있어야한다. [iTerm](https://www.iterm2.com/version3.html)을 설치한다.
 * FE 개발자니까 [Chrome](https://www.google.com/chrome/), [WebStorm](https://www.jetbrains.com/webstorm/) 설치한다.
 * 에디터 하나는 필요하니까 리듬에 맞춰 하나 선택한다.
-    * neovim - [설정 포스트](http://bglee.me/posts/2016/nvim/)
+    * neovim - [설정 포스트](http://blog.bglee.me/posts/2016/nvim/)
     * vs code
     * atom
 
@@ -79,7 +79,7 @@ git은 터미널에서 `git`이라고 치면 라이센스 어쩌고 나오게 �
 
 ## 터미널 환경 설정
 
-ohmyzsh - [설정 포스트](http://bglee.me/posts/2016/ohmyzsh/) 을 설치하면 터미널에서 git status를 별다른 명령어 없이 바로 설정할 수 있다.
+ohmyzsh - [설정 포스트](http://blog.bglee.me/posts/2016/ohmyzsh/) 을 설치하면 터미널에서 git status를 별다른 명령어 없이 바로 설정할 수 있다.
 
 ## 패키지 매니저 설치
 

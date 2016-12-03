@@ -9,7 +9,7 @@ tags: [vim, neovim, vim plugin node, vim plugin javascript]
 
 VIM 플러그인을 node로 작성하는 방법에 대해 간단히 리포트한다. 기본적으로 지원하는 플러그인은 vimscript, python정도로 보이는데 작은 기능을 추가하려고하는데 언어까지 배우기는 뭐해서 방법을 찾아봤다. 플러그인의 기능을까지라고 할 수 있을진 모르겠지만 node를 통해 간단한 작업은 할 수 있다.
 
-OSX를 기준으로 작성되었고 [neovim](http://bglee.me/posts/2016/nvim/)을 사용하고 있다. 홈 디렉토리 안에 `.vimrc`파일이 설정일텐데 `neovim`에서는 `.config/nvim/init.vim`파일이 그 역할을 대신한다. 여튼 설정 파일을 열고 다음과 같이 추가해준다.
+OSX를 기준으로 작성되었고 [neovim](http://blog.bglee.me/posts/2016/nvim/)을 사용하고 있다. 홈 디렉토리 안에 `.vimrc`파일이 설정일텐데 `neovim`에서는 `.config/nvim/init.vim`파일이 그 역할을 대신한다. 여튼 설정 파일을 열고 다음과 같이 추가해준다.
 
 코드가 우아하진 않고 공유차원이 그러려니...
 
