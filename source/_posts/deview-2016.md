@@ -12,6 +12,8 @@ date: 2016-10-24 23:32:09
 Deview 2016
 ===
 
+![](https://lh3.googleusercontent.com/o5PfgOsLJtkIDI1hRbb89DS8Os9SG_IJer64JvJfJyyS6zYuI_j0bTb2TPolXO2cYhL4gL9IZwc=w2145-h1343-no)
+
 ## CTO
 
 ### keynote
