@@ -17,33 +17,33 @@ date: 2016-12-12 03:55:43
 > `yarn global add [package]` 커맨드를 통해 인스톨을 한 경우 `npm`과 달리 실행이 안되는 문제가 있다.
 
 ```sh
- bglee@ibong-gyun-ui-MacBook-Air  ~  yarn global add typescript
- yarn global v0.17.8
- warning No license field
- [1/4] 🔍  Resolving packages...
- [2/4] 🚚  Fetching packages...
- [3/4] 🔗  Linking dependencies...
- [4/4] 📃  Building fresh packages...
- success Installed typescript@2.1.4 with binaries:
-       - tsc
-       - tsserver
- warning No license field
- ✨  Done in 1.56s.
+> yarn global add typescript
+yarn global v0.17.8
+warning No license field
+[1/4] 🔍  Resolving packages...
+[2/4] 🚚  Fetching packages...
+[3/4] 🔗  Linking dependencies...
+[4/4] 📃  Building fresh packages...
+success Installed typescript@2.1.4 with binaries:
+      - tsc
+      - tsserver
+warning No license field
+✨  Done in 1.56s.
 
- bglee@ibong-gyun-ui-MacBook-Air  ~  tsc
+bglee@ibong-gyun-ui-MacBook-Air  ~  tsc
 zsh: command not found: tsc
 ```
 
 `bash` 를 이용하고 있다면 될 수도 있을 것 같은데 필자와 같이 `zsh`를 사용하고 있다면 아래와 같이 한줄을 추가해자.
 
 ```sh
-bglee@ibong-gyun-ui-MacBook-Air  ~  echo "export PATH=\$PATH:`yarn global bin`" >> .zshrc
+> echo "export PATH=\$PATH:`yarn global bin`" >> .zshrc
 ```
 
 이후 실행
 
 ```sh
- bglee@ibong-gyun-ui-MacBook-Air  ~  tsc -v
+> tsc -v
 Version 2.1.4
 ```
 
