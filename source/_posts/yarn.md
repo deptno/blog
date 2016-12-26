@@ -30,7 +30,7 @@ success Installed typescript@2.1.4 with binaries:
 warning No license field
 ✨  Done in 1.56s.
 
-bglee@ibong-gyun-ui-MacBook-Air  ~  tsc
+> tsc
 zsh: command not found: tsc
 ```
 
