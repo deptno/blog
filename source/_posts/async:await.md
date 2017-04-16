@@ -3,12 +3,12 @@ title: Promise || Async/Await
 layout: post
 category: [dev, js]
 date: 2016-07-11
-tags: [es6, es7, es2015, async await, async/await]
+tags: [es6, es7, es2015, async await, async/await, promise]
 ---
 
 callback방식
 
-```js
+```javascript
 function asyncFunction(callback) {
     setTimeout(function() {
         if (callback) callback(1);
@@ -24,7 +24,7 @@ function caller() {
 
 promise
 
-```js
+```javascript
 function asyncFunction() {
     return new Promise(function(resolve, reject) {
         setTimeout(function() {
@@ -43,7 +43,7 @@ function caller() {
 
 Async/Await / ES7
 
-```js
+```javascript
 async function caller() {
     try {
         const resolveVal = await asyncFunction();
@@ -54,6 +54,27 @@ async function caller() {
 };
 ```
 
-Async/Await은 Await을 사용하기 위해 함수를 async로 선언해야 한다. ES7의 실험적 문법을 사용하고 있으므로 컴파일러가 필요하다.
+Async/Await은 Await을 사용하기 위해 함수를 async로 선언해야 한다. TypeScript는 1.7버전 이상이 있으면 사용 가능하다.
 
-Babel에서는 `stage-0` 플러긴을 필요로 하고 TypeScript는 1.7버전 이상이 있으면 사용 가능하다.
+*****[2017-04-16]********
+미진 한 점이 있어 추가한다. async 함수는 Promise를 리턴한다.
+
+```javascript
+async function returnPromise(wantToThrow) {
+    if (wantToThrow) {
+        throw false;
+    }
+    return true;
+}
+
+async function awaiter() {
+    const mustBeTrue = await returnPromise();
+    console.log(mustBeTrue) // true
+
+    try {
+        await returnPromise(true);
+    } catch(ex) {
+        console.log(ex); // false
+    }
+}
+```
