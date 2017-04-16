@@ -56,8 +56,7 @@ async function caller() {
 
 Async/Await은 Await을 사용하기 위해 함수를 async로 선언해야 한다. TypeScript는 1.7버전 이상이 있으면 사용 가능하다.
 
-*****[2017-04-16]********
-미진 한 점이 있어 추가한다. async 함수는 Promise를 리턴한다.
+마지막으로 async 함수는 Promise를 리턴한다.
 
 ```javascript
 async function returnPromise(wantToThrow) {
