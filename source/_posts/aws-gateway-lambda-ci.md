@@ -19,7 +19,7 @@ tags: [aws ,api gateway ,lambda ,ci ,travis ,lambda 배포]
 
 aws에서 제공하는 아키텍쳐 예시를 보면 이해가 쉽다.
 
-![serverless architecture](http://awsblogskr.s3-ap-northeast-2.amazonaws.com/articles/2016-04-serverless/serverless-amazon-s3.png)
+![serverless architecture](https://awsblogskr.s3-ap-northeast-2.amazonaws.com/articles/2016-04-serverless/serverless-amazon-s3.png)
 
 *https://api.example.com* 부분을 통해 api gateway에 접근하면 라우팅을 통해 필요한 lambda함수를 콜하게 된다. 그리고 db 등에 데이터를 연산을 하고 다시 사용자에게 응답을 리턴한다.
 
