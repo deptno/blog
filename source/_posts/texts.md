@@ -1,3 +1,10 @@
+---
+title: Texts 구현
+layout: post
+category: [dev, js]
+date: 2017-05-08
+---
+
 [Texts][0] 구현
 ===
 

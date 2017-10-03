@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hueman
+theme: hexo-theme-next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -75,3 +75,7 @@ deploy:
 disqus_shortname: deptno
 toc:
     maxDepth: 6
+
+index_generator:
+  per_page: 10
+  order_by: -date
