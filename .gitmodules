@@ -10,3 +10,6 @@
 [submodule "source/_drafts"]
 	path = source/_drafts
 	url = https://gitlab.com/deptno/draft.git
+[submodule "themes/hexo-theme-next"]
+	path = themes/hexo-theme-next
+	url = https://github.com/deptno/hexo-theme-next.git

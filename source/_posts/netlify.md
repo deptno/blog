@@ -3,19 +3,25 @@ title: Netlify
 layout: post
 category: [service]
 date: 2017-10-04
+description: Git 레포지터리 Push 만으로 https까지 적용된 사이트를 지속적으로 빌드하고 배포할 수 있다.
+tags:
+  - netlify
+  - https
+  - ssl
+  - 스태틱 웹
+  - static web
 ---
-
 Netlify 는 스태틱 웹을 위한 CMS다. Git 서비스들을 통해 제공되며 레포지터리에 푸시를 할 경우 이를 자동으로 감지하고 빌드하며 재 배포한다. 여기에 본인이 도메인을 가진게 있다라면 본인의 도메인을 연결하여 서비스 할 수 있다.
 
 > 스태틱웹은 동적으로 URL을 생성하는 것이 아닌 그냥 실제 html파일 자체로 서빙을 한다고 생각하면 단순하다.
 
-Netlify 는 추가적으로 Let's encrypt를 서비스 안으로 포함시켜서 SSL(https://) 을 지원하며 이를 위해 DNS를 품고 있다. 자동으로 지원되지만 자신만의 도메인이 있어 이를 사용할 때는 Netlify DNS를 사용해야한다.
+Netlify 는 추가적으로 Let's encrypt 를 서비스 안으로 포함시켜서 SSL(https://) 을 지원하며 이를 위해 DNS를 품고 있다. 자동으로 지원되지만 자신만의 도메인이 있어 이를 사용할 때는 Netlify DNS를 사용해야한다.
 
-이번 <bglee.me>의 DNS를 Netlfy로 옮기면서 모든 페이지에 SSL을 적용하고 기존 블로그는 <https://deptno.github.io>로 되돌려 하나의 루트로 접근 경로를 통일했으며 기존 <https://blog.bglee.me>는 이제 SSL을 적용하고 기존 패스 그대로 <https://deptno.github.io>로 리다이렉트 시키도록 세팅했다. 이를 세팅 과정은 로컬 환경이 아닌 깃헙 레포지터리를 이용할 정도로 단순했고 Netlify에서 지원하는 리다이렉트 옵션도 매우 직관적이었다.[1]
+이번 <bglee.me>의 DNS를 Netlify 로 옮기면서 모든 페이지에 SSL을 적용하고 기존 블로그는 <https://deptno.github.io>로 되돌려 하나의 루트로 접근 경로를 통일했으며 기존 <https://blog.bglee.me>는 이제 SSL을 적용하고 기존 패스 그대로 <https://deptno.github.io>로 리다이렉트 시키도록 세팅했다. 이를 세팅 과정은 로컬 환경이 아닌 깃헙 레포지터리를 이용할 정도로 단순했고 Netlify 에서 지원하는 리다이렉트 옵션도 매우 직관적이었다.[1]
 
 ## 배포
 
-글을 작성하고 있는 현재 Netlify에서 지원하고 있는 Git 클라우드 서비스는 아래와 같다.
+글을 작성하고 있는 현재 Netlify 에서 지원하고 있는 Git 클라우드 서비스는 아래와 같다.
 
 - Gitub
 - Gitlab
@@ -41,7 +47,7 @@ Netlify 는 추가적으로 Let's encrypt를 서비스 안으로 포함시켜서
 
 예를 들어 필자는 `www.bglee.me`를 입력하고 `HTTPS` 에서 주소를 확인한뒤에 `Force TLS connections`를 활성화 시켜 http접속을 https로 강제 리다이렉트 시켰다.
 
- Netflify에서는 `bglee.me`가 아닌 `www.bglee.me`를 등록하라고 권고하고 있으며 `www.bglee.me`를 등록시에 `bglee.me`도 자동으로 Netlify에 의해 등록되며 <bglee.me> 접속시 <www.bglee.me>로 강제 리다이렉트된다.
+Netflify 에서는 `bglee.me`가 아닌 `www.bglee.me`를 등록하라고 권고하고 있으며 `www.bglee.me`를 등록시에 `bglee.me`도 자동으로 Netlify에 의해 등록되며 <bglee.me> 접속시 <www.bglee.me>로 강제 리다이렉트된다.
  
 ## 추가적인 기능
 
@@ -55,10 +61,12 @@ Netlify 는 추가적으로 Let's encrypt를 서비스 안으로 포함시켜서
 
 PR이 왔을시 이에대한 Preview URL을 생성할 수 있으며 이를 스테이지로 활용할 수 있다.
 
+---
+
 ## next
 
 이제 스태틱 사이트를 작성하고 배포해보자.
 
 ---
 
-[1]: https://github.com/deptno/blog.bglee.me
+[1]: https://github.com/deptno/blog.bglee.me "적용 레포지터리"
