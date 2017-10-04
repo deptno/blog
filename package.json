@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "hexo serve",
+    "generate": "hexo generate",
     "deploy": "hexo generate && hexo deploy"
   },
   "hexo": {
