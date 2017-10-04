@@ -1,9 +1,0 @@
-[submodule "themes/landscape"]
-	path = themes/landscape
-	url = https://github.com/deptno/hexo-theme-landscape.git
-[submodule "themes/hueman"]
-	path = themes/hueman
-	url = https://github.com/deptno/hexo-theme-hueman
-[submodule "themes/hexo-theme-next"]
-	path = themes/hexo-theme-next
-	url = https://github.com/deptno/hexo-theme-next.git
