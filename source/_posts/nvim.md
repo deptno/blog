@@ -4,6 +4,7 @@ layout: post
 category: [setup]
 date: 2016-08-03
 tags: [neovim, vim, nvim]
+description: neovim 설치
 ---
 
 ``` bash

@@ -4,6 +4,7 @@ layout: post
 category: [dev, js]
 date: 2016-07-22
 tags: [react]
+description: React 구현 전략
 ---
 
 임베디드 브라우저에서 사용되는 앱을 Web 기술을 통해서 구현했던 터라 일반적인 Web 서비스의 구현이 처음이기도 해서 시행착오가 꽤나 있었다(인증, 배포, 서버 통신).

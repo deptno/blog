@@ -4,6 +4,7 @@ layout: post
 category: [setup, ci]
 date: 2016-08-15
 tags: [aws, code deploy, ci, travis ci, circle ci, slack]
+description: aws를 잘 모르는 상태에서 aws code deploy와 travis ci, slack을 통해 배포하기 위해 삽질한 기록.
 ---
 
 

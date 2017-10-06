@@ -1,9 +1,10 @@
 ---
-title: "Google IO extended Seoul"
+title: Google IO extended Seoul
 layout: post
 date: 2015-07-15
 category: summary
 tags: [google io, google io extended, web 세미나]
+description: Google IO extended Seoul 세미나 요약
 ---
 
 Google IO extended

@@ -1,9 +1,10 @@
 ---
 title: "LEARN: Unity & C#"
 layout: post
-date: "2015-07-22"
+date: 2015-07-22
 category: summary
 tags: [유니티와 C#으로 배우는 게임 개발 교과서, unity, unity3d, 게임 개발, C#, 씨샵]
+description: "LEARN: Unity & C# 책 요약"
 ---
 
 # 교재

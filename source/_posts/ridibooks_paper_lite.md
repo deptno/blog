@@ -3,6 +3,7 @@ title: 리디북스 페이퍼 라이트
 layout: post
 category: draft
 date: 2016-01-03
+description: 리디북스 페이퍼 구매 후기
 ---
 
 리디북스의 [대국민 독서지원 프로젝트](https://ridibooks.com/event/3357) 이벤트를 모르고 지나갔는데 앵콜로 다시하길래 1, 2, 3차를 모두 지르고 [4차 이벤트](https://ridibooks.com/event/3414)로 베스트컬렉션을 169,000원에 리디북스 페이퍼 라이트를 껴서 파는 이벤트까지 모두 질렀다.  

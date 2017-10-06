@@ -4,6 +4,7 @@ layout: post
 category: [dev, js]
 date: 2016-07-11
 tags: [es6, es7, es2015, async await, async/await, promise]
+description: callback, promise, async/await 코드를 통해 비교한다.
 ---
 
 callback방식

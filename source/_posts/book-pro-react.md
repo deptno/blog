@@ -4,6 +4,7 @@ layout: post
 category: [summary]
 date: 2016-07-22
 tags: [pro react, 프로 리액트]
+description: React.js 프로 리액트를 읽고 난 후기
 ---
 
 > React.js를 이용한 모던 프런트엔드 구축

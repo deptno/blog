@@ -4,8 +4,8 @@ layout: post
 category: [dev, js]
 date: 2016-08-03
 tags: [vim, neovim, vim plugin node, vim plugin javascript]
+description: vim 프러그인으로 node script 호출하는 방법
 ---
-
 
 VIM 플러그인을 node로 작성하는 방법에 대해 간단히 리포트한다. 기본적으로 지원하는 플러그인은 vimscript, python정도로 보이는데 작은 기능을 추가하려고하는데 언어까지 배우기는 뭐해서 방법을 찾아봤다. 플러그인의 기능을까지라고 할 수 있을진 모르겠지만 node를 통해 간단한 작업은 할 수 있다.
 

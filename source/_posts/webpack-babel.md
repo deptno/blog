@@ -4,8 +4,8 @@ layout: post
 category: [dev, js]
 date: 2016-07-21
 tags: [babel, webpack]
+description: webpack과 babel 설정
 ---
-
 
 ## webpack을 통해 번들링
 

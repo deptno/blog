@@ -5,7 +5,8 @@ tags:
   - deview2016
   - deview
 category: summary
-date: 2016-10-24 23:32:09
+date: 2016-10-24
+description: Deview 2016 세미나 정리
 ---
 
 

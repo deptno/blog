@@ -3,6 +3,7 @@ title: Jaybird BBX 본사 A/S 후기
 layout: post
 category: device
 date: 2016-01-08
+description: Jaybird BBX A/S 후기
 ---
 
 ## Jaybird BBX

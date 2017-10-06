@@ -1,9 +1,10 @@
 ---
-title: "진행 내역"
+title: 진행 내역
 layout: post
 date: 2015-12-21
 category: draft
 tags: [계획, 지킬, jekyll, milestone]
+description: 개인 계획
 ---
 
 ## 블로그

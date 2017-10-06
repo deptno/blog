@@ -4,6 +4,7 @@ layout: post
 category: [dev, aws]
 date: 2016-09-26
 tags: [aws ,api gateway ,lambda ,ci ,travis ,lambda 배포]
+description: aws serverless architecture 의 핵심에 api gateway 와 lambda 가 있다. 두 서비스는 모드 서울 리전에서 사용이 가능하다. 이를 이용하여 프로토타입을 작성해 보자.
 ---
 
 

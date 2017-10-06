@@ -8,6 +8,7 @@ tags:
   - ec2
   - ec2 container
 date: 2016-11-05 15:00:00
+description: aws ec2 container service 를 통해 서비스를 배포하자.
 ---
 
 

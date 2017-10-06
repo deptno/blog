@@ -3,6 +3,7 @@ title: Jekyll 블로그 운영
 layout: post
 category: [setup, draft]
 date: 2016-01-30
+description: 스태틱 블로그 서비스는 Jekyll 설정
 ---
 
 > 나는 메모장을 열고 .md 로 저장을 했더니 블로그에 글이 포스팅 되어 있다.

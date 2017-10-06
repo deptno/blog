@@ -1,9 +1,9 @@
 ---
 title: 제이버드 X2
 layout: post
-excerpt: Jaybird X2 리뷰
 category: [device]
 date: 2016-01-08
+description: 제이버드 X2 사용기
 ---
 
 어쩌다 보니([BBX가 망가져서 A/S보내 X2로 교환받은 포스트](http://blog.bglee.me/posts/2015/jaybird_bbx_as))를 갖게 되었다. 성능상으로의 스펙의 차이는 크게 없고 둘다 검정인데(미드나잇 블랙) X2의 색상은 무광으로 처리되어 있어 조금더 고급스러운 느낌이 든다.

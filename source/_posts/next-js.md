@@ -3,6 +3,7 @@ title: Next.js
 layout: post
 category: [dev, js]
 date: 2017-05-08
+description: react SSR 을 지원하는 next.js의 사용법을 간단히 소개한다. 
 ---
 
 Next.js

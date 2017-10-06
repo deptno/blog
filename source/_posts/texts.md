@@ -3,6 +3,7 @@ title: Texts 구현
 layout: post
 category: [dev, js]
 date: 2017-05-08
+description: 기획자 디자이너, 퍼블리셔와의 협업시 문구 변경으로 인한 피로를 덜기 위해 ID 기반의 문구 관리
 ---
 
 [Texts][0] 구현

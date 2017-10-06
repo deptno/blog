@@ -3,6 +3,7 @@ layout: post
 title: 프로 AngularJS
 category: [summary]
 date: 2016-02-01
+description: 이 문서는 AngluarJS를 빠르게 읽히기 위해 예제코드를 눈으로만 읽으며 정리한 개인 노트다.
 ---
 
 > 이 문서는 AngluarJS를 빠르게 읽히기 위해 예제코드를 눈으로만 읽으며 정리한 개인 노트다.

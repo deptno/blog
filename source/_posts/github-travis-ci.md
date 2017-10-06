@@ -4,6 +4,7 @@ layout: post
 category: [dev, ci]
 date: 2016-08-15
 tags: [ci, travis ci, circle ci, slack, github, devops, github, notification]
+description: 코드를 커밋하고 ci가 검증하고 이에 대한 결과를 슬랙으로 받고자 한다. circle ci, travis ci 등 ci cloud service가 많은데 open source 를 지원해주는 `travis-ci`를 기준으로 해서 작성한다. circle ci도 개인 레포지터리 하나에 대해선 지원을 해준다.
 ---
 
 

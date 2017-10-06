@@ -4,6 +4,7 @@ layout: post
 category: [dev, ts]
 date: 2016-04-12
 tags: [requirejs, typescript, amd, amd-dependency]
+description: about TypeScript
 ---
 
 <!-- toc -->

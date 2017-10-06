@@ -3,6 +3,7 @@ title: 돈주고 구매한 프로그램들
 layout: post
 category: draft
 date: 2016-01-06
+description: 돈주고 구매한 프로그램들
 ---
 
 ## Windows

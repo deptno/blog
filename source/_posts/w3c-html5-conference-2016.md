@@ -5,6 +5,7 @@ tags:
   - amp
 category: summary
 date: 2016-12-07 21:10:13
+description: W3C HTML 5 컨퍼런스 2016 요약
 ---
 
 개인 정리

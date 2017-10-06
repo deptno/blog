@@ -4,6 +4,7 @@ layout: post
 category: [dev, js]
 date: 2016-04-12
 tags: [r.js, requirejs]
+description: requirejs 
 ---
 
 > build.js

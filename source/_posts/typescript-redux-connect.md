@@ -3,6 +3,7 @@ title: TypeScript와 Redux connect
 layout: post
 category: [dev, ts]
 date: 2017-10-03
+description: redux connect를 제대로 typing 해보자
 ---
 
 타입스크립트와 리덕스로 SPA를 구현하는데 있어 기본적인 셋업이 아닌 문법적인 측면에 포커싱된 글로 타입스크립트를 활용하는데 도움이 되었으면한다.

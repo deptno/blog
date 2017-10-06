@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Ionic + TypeScript
+layout: post
 category: [draft]
 date: 2016-01-03T18:19:28.244
+description: Angular.js와 Ionic을 공부할 겸 해서 TypeScript와 함께 앱을 제작해 보려고 한다.
 ---
 
 > Angular.js와 Ionic을 공부할 겸 해서 TypeScript와 함께 앱을 제작해 보려고 한다.

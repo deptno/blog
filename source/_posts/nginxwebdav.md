@@ -4,6 +4,7 @@ layout: post
 date: 2015-07-24
 category: program
 tags: [nginx, nginx webdav, webdav, dav]
+description: nginx에 webdav 모듈을 설치하자
 ---
 
 ## NGINX WebDAV setup

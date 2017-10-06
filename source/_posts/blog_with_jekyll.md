@@ -3,6 +3,7 @@ title: Jekyll
 layout: post
 category: draft
 date: 2016-01-06
+description: 블로그 플랫폼을 Jekyll 로 선택한 이유
 ---
 
 ## 기존 블로그 플랫폼의 경험

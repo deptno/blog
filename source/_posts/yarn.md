@@ -6,7 +6,8 @@ tags:
 category:
   - setup
   - js
-date: 2016-12-12 03:55:43
+date: 2016-12-12
+description: facebook 에서 만든 `NPM` 의 래퍼 `yarn`에 대해서 설명한다. `yarn`을 소개한다.
 ---
 
 ![](https://yarnpkg.com/assets/feature-speed.png)

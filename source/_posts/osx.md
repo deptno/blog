@@ -4,6 +4,7 @@ layout: post
 category: [setup]
 date: 2016-07-28
 tags: [맥북 셋업, 맥북 개발 환경 설정, osx 개발 환경, 맥북 설정]
+description: 맥 북을 처음 쓴다면 꼭 이대로 하길 바라며 쓰는 글
 ---
 
 
