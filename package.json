@@ -5,7 +5,7 @@
   "scripts": {
     "init": "git submodule update",
     "dev": "hexo serve",
-    "generate": "hexo generate",
+    "generate": "hexo generate && echo blog.bglee.me > public/CNAME",
     "deploy": "hexo generate && hexo deploy"
   },
   "hexo": {
