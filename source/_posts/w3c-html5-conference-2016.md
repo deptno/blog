@@ -223,7 +223,7 @@ FlyWeb Project
 * url + #development=1 를 사용하면 에러 뿜어준다.
 * amp.js는 외부 js를 허용하지 않는다.
 * AMP Cache - 구글이 CDN 으로 다 뿌려준다.
-* HTML <-> AMP-HTML 페어로 구성 또는 AMP-HTML 온리
+* HTML <=> AMP-HTML 페어로 구성 또는 AMP-HTML 온리
 * 슬랙등에 링크걸면 AMP로딩해준다.
 * amp 컴포넌트를 사용해서 리소스를 로딩하게되면 뷰포트에 보이는 시점에 레이지로딩한다.
 * 크로스 브라우징 해결해준다.
