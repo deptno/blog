@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "init": "git submodule update",
+    "draft": "hexo new draft",
+    "post": "hexo publish",
     "dev": "hexo serve",
     "generate": "hexo generate && echo blog.bglee.me > public/CNAME",
     "deploy": "npm run generate && hexo deploy"
@@ -11,7 +13,9 @@
   "hexo": {
     "version": "3.7.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "hexo-filter-github-emojis": "^1.4.4"
+  },
   "devDependencies": {
     "hexo": "^3.7.0",
     "hexo-all-minifier": "^0.5.2",

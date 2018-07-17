@@ -79,3 +79,7 @@ toc:
 index_generator:
   per_page: 100
   order_by: -date
+
+githubEmojis:
+  enable: true
+  unicode: true
