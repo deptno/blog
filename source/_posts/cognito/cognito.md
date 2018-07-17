@@ -7,6 +7,7 @@ tags:
   - idp
   - user pool
   - federated Identities
+thumbnail: federated_identities_logins.png
 description: Cognito, multi IDP login
 ---
 
