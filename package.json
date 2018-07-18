@@ -14,7 +14,8 @@
     "version": "3.7.1"
   },
   "dependencies": {
-    "hexo-filter-github-emojis": "^1.4.4"
+    "hexo-filter-github-emojis": "^1.4.4",
+    "ramda": "^0.25.0"
   },
   "devDependencies": {
     "hexo": "^3.7.0",
@@ -35,6 +36,7 @@
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.1",
-    "hexo-toc": "^1.1.0"
+    "hexo-toc": "^1.1.0",
+    "hexo-typora-image": "^0.1.2"
   }
 }

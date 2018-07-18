@@ -5,7 +5,9 @@ tags:
   - hexo
   - typora
   - typora image
+date: 2018-07-18 15:15:02
 ---
+
 
 # Typora, Hexo 이미지 설정
 
@@ -49,7 +51,7 @@ Typora 라는 내가 써본 마크다운 에디터중 가장 강력하며 안정
 
 문제는 이 설정이 Hexo 의 설정과 맞지 않는다는데 있다. 
 
-![typora-config](typora-config.png)
+![typora-config](typora-hexo/typora-config.png)
 
 현재 폴더로 복사와 몇가지 프리셋이 준비되어 있는데 동일 폴더명을 선택할 수 없다. 그래서 플러그인을 작성하려다가 잠시 멈추고 몇 가지 문서를 검색해서 참조하니 간단한 해결책이 있었다.
 
@@ -101,6 +103,18 @@ tags:
 파일을 열어보면 위와 같다. 우리가 주목해야할 것은 `typora-copy-images-to` 속성이다. 뒤에는 `{{ titlle }}` 을 매칭해 뒀기 때문에 값은 파일명과 같이 `typora-hexo` 다.
 
 때문에 이제 그냥 글을 작성하면서 이미지를 드래그해서 넣으면 알아서 `typora-hexo/<image-file>` 형식으로 삽입되게 되며 복사 또한 자동으로 이루어져 이미지에 대한 고민에서 해방된다.
+
+## Generate 후 HTML에서 이미지가 깨지는 문제
+
+Hexo 의 설정 파일인  `_config.yml`  에서 `post_asset_folder: true` 를 설정하게 되면 `hexo new <filename> 을 통해 파일을 생성할때 파일이름과 동일한 어셋 폴더가 자동으로 생성된다.
+
+우리는 위에서 `typora-copy-images-to:` 메타 속성의 주입을 통해 이미지 드래그시 파일명과 동일한 디렉토리에 이미지를 복사하게 설정을 해둬서 글을 작성할 때는 이미지 잘 보인다. 문제는 Hexo 가 `hexo generate` 를 할 때는 이미지를 알아서 어셋 디렉토리를 참조하게 되어어서 발생하는데 이 때문에 생성된 HTML 에서는 이미지가 깨지게 된다.
+
+`hexo generate` 시 경로를 중복 참조하지 않도록 플러그인을 작성했으니 동일한 이슈로 고통받는 이가 있으면 플러그인을 사용하자.
+
+<https://github.com/deptno/hexo-typora-plugins/tree/master/packages/hexo-typora-image>
+
+`hexo generate` 전에 플러그인을 인스톨하면 자동으로 적용된다.
 
 ### 터미널에서 Typora 를 통해 markdown 열기
 

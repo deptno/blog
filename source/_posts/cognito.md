@@ -139,6 +139,6 @@ AWS.config.credentials = new AWS.CognitoIdentityCredentials({
 
 `Logins` 에 한번이라도 함께 등록되면 각기 다른 **IDP**에 의해 발급된 두개의 토큰은 함께 연결되는 것으로 보인다. 때문에 함께 저장하는 순간 유저 수 인식이 2 에서 1명으로 변경된다.
 
-## ![federated_identities_logins](cognito/federated_identities_logins.png)
+![federated_identities_logins](cognito/federated_identities_logins.png)
 
 위 이미지는 `Logins` 에 함께 저장 후 대쉬보드의 화면이며 **Facebook** 로그인(파란색)과 **Cognito** 로그인(녹색)이 각각 카운트가 1이나 총 자격 증명이 1 로 인식되는 걸 확인 할 수 있다. 함께 저장하기 전에는 총 자격 증명이 2 였다.
