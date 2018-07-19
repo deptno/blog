@@ -1,5 +1,5 @@
 ---
-title: typora
+title: ✒️  Typora, 마크다운 에디터
 date: 2018-07-16 13:48:06
 tags:
   - typora

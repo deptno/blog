@@ -1,5 +1,5 @@
 ---
-title: typora-hexo
+title: Typora ♥️  Hexo
 typora-copy-images-to: typora-hexo
 tags:
   - hexo
