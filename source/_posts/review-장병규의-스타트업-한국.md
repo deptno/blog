@@ -1,5 +1,5 @@
 ---
-title: review_장병규의_스타트업_한국
+title: 서평, 장병규의 스타트업 한국
 typora-copy-images-to: review_장병규의_스타트업_한국
 tags:
   - 서평
