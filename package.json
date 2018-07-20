@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "hexo-filter-github-emojis": "^1.4.4",
+    "hexo-typora-image": "^0.1.2",
     "ramda": "^0.25.0"
   },
   "devDependencies": {
@@ -36,7 +37,6 @@
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.1",
-    "hexo-toc": "^1.1.0",
-    "hexo-typora-image": "^0.1.2"
+    "hexo-toc": "^1.1.0"
   }
 }
