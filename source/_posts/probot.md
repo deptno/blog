@@ -8,7 +8,9 @@ tags:
   - github app
   - oauth app
   - github webhook
+date: 2018-08-31 00:31:54
 ---
+
 
 ## 프로봇
 
@@ -235,3 +237,11 @@ $ nodemon --exec "npm start"
 ```
 
 :thinking: 왜 이벤트가 중복으로 오는지는 모른다. `smee.io` 문제이리라... 일단 확인했다.
+
+:information_desk_person: 이벤트를 로깅하려고 `context.log(JSON.stringify(context))` 등을 사용했으나 `smee.io`가 친절하게 다 보여준다.
+
+![json-view](probot/json-view.png)
+
+반갑게도 [다이나몬](https://github.com/deptno/dynamon) 만들때 그 `JSON view` 다. :slightly_smiling_face:
+
+여기서 기약은 없지만 1차를 마친다. 개인적인 정리중에 가장 기억안나는게 셋업이라 이 부분을 정리했다. 첨언하자면 `context` 객체에 `github` 을 통해 인증된 권한을 가지고 이슈등을 생성할 수 있다.(맞는 퍼미션에 맞게)
