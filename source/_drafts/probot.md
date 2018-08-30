@@ -121,6 +121,8 @@ https://github.com/settings/apps/new 에 들어가서 이제 새 `Github App` �
 
 퍼미션이나 받고자 하는 훅은 본인이 선택하면 된다. `Watch` 를 통해 스타를 받는 것이 테스트하기 편해 보여 아래와 같이 설정했다. 또 타인이 설치할 수도 있도록 `Any acount` 를 선택했다.
 
+:information_desk_person: 이 부분은 원하는 이벤트에 따라 달라지니 필요한 이벤트는 선택해두자.
+
 ![permission](probot/permission.png)
 
 그럼 상단에 키를 생성하라고 배너가 뜬다. 링크를 눌러 생성하자
