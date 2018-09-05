@@ -54,6 +54,35 @@ date: 2018-08-15 18:45:58
 - [Next.js 버전](https://github.com/deptno/typescript-monorepo-next-example)
 - [create-react-app 버전](https://github.com/deptno/typescript-monorepo-cra-example)
 
----
+------
 
 등아파서 글을 길게 못쓰겠다...
+
+> 💁 2018-09-05 추가 내용
+
+### :shit: Package 간의 상호 참조 의존성
+
+패키지간에 상호 참조가 필요한 경우 기존의 모노레포에서 하듯이 `package.json` 에 `[packageName]: "*"`이 동작하지 않았다. 대충 아래와 같은 에러가 난다.
+
+```bash
+npx tsc -b packages
+error TS6307: File '경로/packages/패키지명/index.ts' is not in project file list. Projects must list all files or use an 'include' pattern.
+```
+
+`include` 라는 말에 휘둘려서 시간을 쫌 뺏겼는데 의존성이 없는 `pakcages/b` 는 컴파일이 되는 것을 보고 이것 저것 테스트를 해봤다.
+
+`packages/a` 가 `packages/b` 에 대한 의존성을 지니고 있을 때 `packages/a` 의 `tsconfig.json` 에 레퍼런스를 추가해줘야지만 컴파일이 가능하다.
+
+`packages/a/tsconfig.json` 에 `reference` 구문을 추가해주자
+
+```json
+"references": [
+  { "path": "../b" }
+]
+```
+
+그리고 다시 빌드한다.
+
+```bash
+tsx tsc -b packages
+```
