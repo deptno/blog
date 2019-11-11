@@ -7,8 +7,10 @@
     "draft": "hexo new draft",
     "post": "hexo publish",
     "dev": "hexo serve",
-    "generate": "hexo generate && echo blog.bglee.me > public/CNAME",
-    "deploy": "npm run generate && hexo deploy"
+    "generate": "hexo generate",
+    "deploy": "aws s3 sync public s3://blog.bglee.me --delete",
+    "invalidation": "aws cloudfront create-invalidation --distribution-id E1WLJ0617XSW4D --paths \"/*\"",
+    "ci_deploy": "npm run generate && npm run deploy && npm run invalidation"
   },
   "hexo": {
     "version": "3.7.1"

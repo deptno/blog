@@ -1,0 +1,22 @@
+name: pr-terraform
+on:
+  push:
+    branches:
+      - master
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: set AWS credentials
+        run: |
+          aws configure set region ap-northeast-2
+          aws configure set aws_access_key_id $AWS_ACCESS_KEY_ID
+          aws configure set aws_secret_access_key $AWS_SECRET_ACCESS_KEY
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: deploy
+        run: |
+          npm ci
+          npm run ci_deploy
