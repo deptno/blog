@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "hexo": "^3.7.0",
-    "hexo-all-minifier": "^0.5.2",
+    "hexo-all-minifier": "^0.5.3",
     "hexo-autoprefixer": "^1.0.0",
     "hexo-cli": "^1.1.0",
     "hexo-deployer-git": "^0.3.1",
