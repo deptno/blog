@@ -1,4 +1,4 @@
-name: pr-terraform
+name: deploy
 on:
   push:
     branches:
